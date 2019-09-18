@@ -1,5 +1,9 @@
 ---
-title: Hello World
+title: There is the title
+date: 2019-09-15 15:13:06
+category: learn
+excerpt: something you want to show 
+photos: [img_url]
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
