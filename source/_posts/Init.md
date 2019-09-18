@@ -2,6 +2,18 @@
 title: 从《星际牛仔》中理解渡边信一郎的音乐哲学(转)
 date: 2019-09-17 15:13:06
 tags:
+home:
+  # set card style of home page
+  # card: project-card
+  category: Share
+  tag:
+    - js
+    - css
+  except_category: animation
+  except_tag: 'animation'
+layout: post
+excerpt: my_post_excerpt
+photos: [https://image.gcores.com/a993e370-fd58-4003-992a-788b6151ef07.jpg]
 ---
 
 ![img from gcores](https://image.gcores.com/a993e370-fd58-4003-992a-788b6151ef07.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_2000,h_2000/quality,q_90)
